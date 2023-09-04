@@ -5,13 +5,6 @@ everything, from python code to custom minecraft textures.
 
 i hope you like it. :)
 
-
-
-
-
-
-
-
-sooo im not working in this right now but maybe in the future i`l be,
+i am working a bit so maybe you can see new things.
 
 thank you very much and please share.
