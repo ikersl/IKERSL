@@ -1,4 +1,4 @@
-#EAO Virus
+# EAO Virus
 
 the EAO virus is a prototype python payload in development based in the Eeeaaaooo song.
 
